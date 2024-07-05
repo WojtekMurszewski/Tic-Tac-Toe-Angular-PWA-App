@@ -1,0 +1,21 @@
+/* square.component.scss */
+button {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    font-size: 24px;
+    cursor: pointer;
+    border: none;
+    font-size: 2rem;
+    color: white;
+    cursor: pointer;
+  }
+  button.x {
+    background-color: purple; 
+    color: pink;
+  }
+  
+  button.o {
+    background-color: pink; 
+    color: purple
+  }
